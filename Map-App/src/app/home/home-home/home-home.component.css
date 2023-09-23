@@ -1,0 +1,21 @@
+.country-info {
+    border: 2px solid red;
+    display: inline-block;
+    width: 22%;
+    padding-left: 10px;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
+}
+
+.map-div {
+
+    display: inline-block;
+    float: right;
+    width: 75%;
+    height: 75%;
+    border: 2px solid red;
+}
+
+
+svg path:hover {
+    fill: red;
+}
